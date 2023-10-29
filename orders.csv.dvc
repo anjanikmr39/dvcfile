@@ -1,0 +1,5 @@
+outs:
+- md5: a35e8f047bf3c9c6a9504c9e0e6ba2c6
+  size: 2307549
+  hash: md5
+  path: orders.csv
